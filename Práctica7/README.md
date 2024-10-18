@@ -18,7 +18,7 @@ Paso 2. Iniciar sesión.
 
 Paso 3. Abrir Cloud Shell.
 
-![open-shell](img/activate-shell.png)
+![open-shell](../Práctica7/activate-shell.png)
 
 Paso 4. Verificar que la cuenta esta siendo usada en Cloud Shell con el comando:
 
@@ -204,7 +204,7 @@ Paso 4. Hacer click en el digito más reciente de la imagen.
 
 Paso 5. Una vez finalizado el escaneo, hacer click en la pestaña *Vulnerabilities* de la imagen.
 
-![vulnerabilidades](img/vulnerabilities.png)
+![vulnerabilidades](../Práctica7/vulnerabilities.png)
 
 ¡El auto escaneado esta habilitado por defecto! Esta sección fue solo para que exploraras los resultados.
 
@@ -336,7 +336,7 @@ gcloud builds submit
 Paso 6. Observar los resultados en Artifact Registry. Puedes notar que disminuimos la cantidad de vulnerabilidades en nuestra imagen.
 
 ### Resultado esperado
-![imagen resultado](img/resultado.png)
+![imagen resultado](../Práctica7/resultado.png)
 
 ¡Felicidades! Con esto haz concluido tu último laboratorio. 
 No olvides solicitar ayuda a tu entrenador para eliminar los recursos que recien creaste.
