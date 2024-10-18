@@ -157,7 +157,7 @@ exit
 
 ### Resultado esperado
 
-![result](img/resultado1.png)
+![result](../images/resultado1.png)
 
 ¡Felicidades! Con esto haz concluido tu primer laboratorio. 
 No olvides solicitar ayuda a tu entrenador para eliminar los recursos que recien creaste.
