@@ -18,7 +18,7 @@ Paso 2. Iniciar sesión.
 
 Paso 3. Abrir Cloud Shell.
 
-![open-shell](activate-shell.png)
+![open-shell](activate-shell1.png)
 
 Paso 4. Verificar que la cuenta esta siendo usada en Cloud Shell con el comando:
 
@@ -156,7 +156,8 @@ exit
 ```
 
 ### Resultado esperado
-![result](img/resultado.png)
+
+![result](img/resultado1.png)
 
 ¡Felicidades! Con esto haz concluido tu primer laboratorio. 
 No olvides solicitar ayuda a tu entrenador para eliminar los recursos que recien creaste.
