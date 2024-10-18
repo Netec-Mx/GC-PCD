@@ -16,7 +16,7 @@ Paso 2. Iniciar sesión.
 
 Paso 3. Abrir Cloud Shell.
 
-![open-shell](img/activate-shell.png)
+![open-shell](../Práctica2/activate-shell.png)
 
 Paso 4. Verificar que la cuenta esta siendo usada en Cloud Shell con el comando:
 
@@ -57,7 +57,7 @@ cd flex_and_vision
 
 Paso 1. En el buscador, dentro de la consola, buscar "Cloud Vision API" y hacer click en habilitar.
 
-![Enable](img/enable.png)
+![Enable](../Práctica2/enable.png)
 
 Paso 2. En el buscador, dentro de la consola, buscar "Cloud Datastore API" y hacer click en habilitar.
 
@@ -144,7 +144,7 @@ python main.py
 
 Paso 7. Una vez la aplicación se inicie, hacer click en el botón de Preview en Cloud Shell y elegir la opción *Preview on Port 8080*
 
-![preview](img/preview8080.png)
+![preview](../Práctica2/preview8080.png)
 
 Paso 8. Hacer la prueba subiendo una imagen a la aplicación. Cuando se terminen de hacer pruebas, regresar a Cloud Shell. Presionar *CTRL+C* para apagar el web server.
 
@@ -200,7 +200,7 @@ No olvides cambiar ID_DE_TU_PROYECTO por el ID del proyecto.
 
 
 ### Resultado esperado
-![imagen resultado](img/resultado.png)
+![imagen resultado](../Práctica2/resultado.png)
 
 ¡Felicidades! Con esto haz concluido el segundo laboratorio. 
 No olvides solicitar ayuda a tu entrenador para eliminar los recursos que recien creaste.
