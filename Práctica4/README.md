@@ -17,7 +17,7 @@ Paso 2. Iniciar sesión.
 
 Paso 3. Abrir Cloud Shell.
 
-![open-shell](img/activate-shell.png)
+![open-shell](../Práctica4/activate-shell.png)
 
 Paso 4. Verificar que la cuenta esta siendo usada en Cloud Shell con el comando:
 
@@ -92,7 +92,7 @@ Paso 3. Copiar el URL público para acceder al objeto.
 Paso 4. Utilizar el URL en el navegador para acceder al objeto.
 
 ### Resultado esperado
-![imagen resultado](img/resultado.png)
+![imagen resultado](../Práctica4/resultado.png)
 
 ¡Felicidades! Con esto haz concluido tu cuarto laboratorio. 
 No olvides solicitar ayuda a tu entrenador para eliminar los recursos que recien creaste.
