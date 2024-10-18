@@ -17,7 +17,7 @@ Paso 2. Iniciar sesión.
 
 Paso 3. Abrir Cloud Shell.
 
-![open-shell](img/activate-shell.png)
+![open-shell](../Práctica6/activate-shell.png)
 
 Paso 4. Verificar que la cuenta esta siendo usada en Cloud Shell con el comando:
 
@@ -233,7 +233,7 @@ Paso 8. Ejecutar el archivo, el cual debería generar 3 reportes en la aplicaci�
 
 Paso 9. Ve a la pagína de Cloud Run y abre el servicio desplegado. Puedes ir a la pestaña de logs para corroborar que se generaron 3 entradas se muestras como:
 
-![entradas](img/entradas.png)
+![entradas](../Práctica6/entradas.png)
 
 ### Tarea 5. Preparar el código del servicio Email
 Paso 1. Cambiar al directorio *lab05/email-service*. Utilizar el comando:
@@ -550,8 +550,10 @@ Paso 7. Ejecutar la prueba del servicio. Utilizar el comando:
 ```
 
 Paso 8. Revisar los logs del servicio SMS para corroborar su funcionamiento.
+
 ### Resultado esperado
-![imagen resultado](img/resultado.png)
+
+![imagen resultado](../Práctica6/resultado.png)
 
 ¡Felicidades! Con esto haz concluido tu sexto laboratorio. 
 No olvides solicitar ayuda a tu entrenador para eliminar los recursos que recien creaste.
