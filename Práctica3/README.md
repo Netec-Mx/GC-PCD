@@ -18,7 +18,7 @@ Paso 2. Iniciar sesión.
 
 Paso 3. Abrir Cloud Shell.
 
-![open-shell](img/activate-shell.png)
+![open-shell](../Práctica3/activate-shell.png)
 
 Paso 4. Verificar que la cuenta esta siendo usada en Cloud Shell con el comando:
 
@@ -280,7 +280,7 @@ curl -k https://<IP EXTERNA>
 
 
 ### Resultado esperado
-![imagen resultado](img/resultado.png)
+![imagen resultado](../Práctica3/resultado.png)
 
 ¡Felicidades! Con esto haz concluido tu tercer laboratorio. 
 No olvides solicitar ayuda a tu entrenador para eliminar los recursos que recien creaste.
