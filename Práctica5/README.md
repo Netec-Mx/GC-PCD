@@ -17,7 +17,7 @@ Paso 2. Iniciar sesión.
 
 Paso 3. Abrir Cloud Shell.
 
-![open-shell](img/activate-shell.png)
+![open-shell](../Práctica5/activate-shell.png)
 
 Paso 4. Verificar que la cuenta esta siendo usada en Cloud Shell con el comando:
 
@@ -68,7 +68,7 @@ Dejar el resto en los predeterminados y hacer click en *Crear instancia*. Este p
 ### Tarea 4. Conectarse a la instancia
 Paso 1. Dentro de la pagína de detalles de la instancia, puedes encontrar su IP pública, guardala para usarla más delante.
 
-![Ip_Publica](img/ip-publica.png)
+![Ip_Publica](../Práctica5/ip-publica.png)
 
 Paso 2. Ir al apartado de usuarios.
 
@@ -154,7 +154,7 @@ exit
 Paso 1. Utilizar la direccion IP pública para conectarse a la instancia replica desde Workbench o un Cliente SQL similar.
 
 ### Resultado esperado
-![imagen resultado](img/resultado.png)
+![imagen resultado](../Práctica5/resultado.png)
 
 ¡Felicidades! Con esto haz concluido tu quinto laboratorio. 
 No olvides solicitar ayuda a tu entrenador para eliminar los recursos que recien creaste.
