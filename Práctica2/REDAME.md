@@ -176,6 +176,17 @@ Paso 5. Cambiar la versión de python de 3 a 3.7.
 
 Paso 6. Guardar y cerrar el archivo. En nano presionar *CTRL+X* despues *Y* y enter.
 
+NOTA: 
+
+Si el script no funciona, puedes intentar remplazarlo por lo siguiente: 
+
+runtime: python311
+env: standard
+entrypoint: gunicorn -b :$PORT main:app
+ 
+env_variables:
+  CLOUD_STORAGE_BUCKET: emerald-circle-439315-d2
+
 ### Tarea 8. Desplegar la aplicación en App Engine Flexible enviroment
 
 Paso 1. Actualizar el tiempo fuera de Cloud Build. En Cloud Shell utilizar el comando:
